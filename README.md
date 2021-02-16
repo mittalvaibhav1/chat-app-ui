@@ -1,5 +1,6 @@
 # chat-app-ui
-A chat app user interface built using React js.
+A chat app user interface built using React js. <br/>
+Live demo here: [chat-app-ui](https://b7d1b.csb.app/)
 
 ## Sample screenshots
 
