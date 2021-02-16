@@ -1,0 +1,22 @@
+.contacts {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex: 0.25;
+  flex-basis: 25%;
+}
+
+.contacts__heading {
+  text-align: center;
+  padding: 20px 0px;
+  background: #036055;
+  color: white;
+}
+.contacts__heading > h1 {
+  font-weight: 545;
+}
+
+.contacts__list {
+  flex: 1;
+  overflow-y: auto;
+}
